@@ -97,3 +97,22 @@ This repository currently contains project documentation and information.
 ⭐ If you find PayRate useful, consider starring this repository.
 
 🌐 **https://payrate.lovable.app/**
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![PayRate Homepage](01-payrate-homepage.jpg)
+
+### Calculator Input
+![Calculator Input](02-calculator-input.jpg)
+
+### Transaction Settings
+![Transaction Settings](03-transaction-settings.jpg)
+
+### Calculation Result
+![Calculation Result](04-calculation-result.jpg)
+
+### Information & Guides
+![Information and Guides](05-information-and-guides.jpg)
